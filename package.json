@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "nftiitea": "^1.0.0"
+  },
+  "name": "zgszgstea",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgszgsn/zgszgstea/issues"
+  },
+  "homepage": "https://github.com/zgszgsn/zgszgstea#readme"
+}
